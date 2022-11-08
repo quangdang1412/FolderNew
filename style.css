@@ -4,6 +4,10 @@ body {
 	align-items: center;
 	background: #2c3e50
 }
+h2 {
+    color: #EE82EE;
+    text-align: center;
+    padding-top: 600px;
 
 .box {
 	width: 1000px;
